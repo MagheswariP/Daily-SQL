@@ -1,2 +1,2 @@
 # Daily-SQL
-here I uploaded my daily learning in SQL
+Uploading my 21 days SQL challenge codes.
